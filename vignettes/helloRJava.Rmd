@@ -1,0 +1,21 @@
+<!--
+%\VignetteIndexEntry{Interfacing Java from R}
+%\VignettePackage{helloRJava}
+%\VignetteEngine{knitr::knitr}
+-->
+
+```{r library}
+library("helloRJava")
+```
+
+Say _Hello_ from Java
+
+```{r sayHello}
+sayHello()
+```
+
+Create an integer matrix in Java and return to R
+
+```{r createArray}
+createArray(3, 3)
+```
