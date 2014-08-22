@@ -1,0 +1,9 @@
+Package: helloRJava
+Version: 0.0.1
+Title: Interfacing Java from R
+Author: Andrzej Oles
+Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>
+Description: A dummy package interfacing a JAR file that resides inside an R package. 
+Depends: rJava (>= 0.9-6)
+SystemRequirements: Java (>= 1.5)
+License: GPL-3

@@ -1,0 +1,3 @@
+importFrom(rJava, .jnew, .jcall, .jpackage)
+
+export(sayHello)

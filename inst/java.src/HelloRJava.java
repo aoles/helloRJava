@@ -1,0 +1,8 @@
+public class HelloRJava {
+  public String sayHello() {
+    String result = new String("Hello Java World!");
+    return result;
+  }
+  
+  public static void main(String[] args) { }
+}
